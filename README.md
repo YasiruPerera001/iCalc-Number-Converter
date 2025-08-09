@@ -15,6 +15,6 @@ A Java console application that converts numbers between different numeral syste
 
 **Notes**
 
-# Validations are implemented for each number system.
-# Roman-to-decimal conversion feature is under development.
+- Validations are implemented for each number system.
+- Roman-to-decimal conversion feature is under development.
 
